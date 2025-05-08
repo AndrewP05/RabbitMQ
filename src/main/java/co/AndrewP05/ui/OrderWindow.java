@@ -21,7 +21,7 @@ public class OrderWindow extends JFrame {
     private JButton btnSend;
 
     public OrderWindow() {
-        setTitle("Enviar Pedido");
+        setTitle("Enviar Pedidos");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(400, 220);
         setLocationRelativeTo(null);
